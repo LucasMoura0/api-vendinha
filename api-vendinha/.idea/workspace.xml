@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4e4c0c2d-eb2f-4664-b501-b05c992c6a39" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/api_vendinha/api/controller/SaleController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/api_vendinha/api/domain/dtos/request/SaleRequestDto.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/api_vendinha/api/domain/dtos/response/SaleResponseDto.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/api_vendinha/api/domain/entities/Sale.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/api_vendinha/api/domain/service/SaleServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/api_vendinha/api/domain/service/SaleServiceInterface.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/api_vendinha/api/infrastructure/repository/SalesRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/api_vendinha/api/controller/ProductController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/api_vendinha/api/controller/ProductController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/api_vendinha/api/controller/UserController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/api_vendinha/api/controller/UserController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/api_vendinha/api/domain/dtos/request/ProductRequestDto.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/api_vendinha/api/domain/dtos/request/ProductRequestDto.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/api_vendinha/api/domain/dtos/request/UserRequestDto.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/api_vendinha/api/domain/dtos/request/UserRequestDto.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/api_vendinha/api/domain/dtos/response/ProductResponseDto.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/api_vendinha/api/domain/dtos/response/ProductResponseDto.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/api_vendinha/api/domain/dtos/response/UserResponseDto.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/api_vendinha/api/domain/dtos/response/UserResponseDto.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/api_vendinha/api/domain/entities/Products.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/api_vendinha/api/domain/entities/Products.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/api_vendinha/api/domain/entities/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/api_vendinha/api/domain/entities/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/api_vendinha/api/domain/service/ProductServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/api_vendinha/api/domain/service/ProductServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/api_vendinha/api/domain/service/ProductServiceInterface.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/api_vendinha/api/domain/service/ProductServiceInterface.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/api_vendinha/api/domain/service/UserServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/api_vendinha/api/domain/service/UserServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/api_vendinha/api/domain/service/UserServiceInterface.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/api_vendinha/api/domain/service/UserServiceInterface.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/data.sql" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/data.sql" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="2pJvKUpKMLahqPAMyVJYhxDgkdw" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Kotlin.ApiApplicationKt.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Dell/IntellijProjetosFullstack/api-vendinha/api-vendinha"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="api-vendinha" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="api-vendinha" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.2-openjdk-21.0.2-4caba194b151-4f524021" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4e4c0c2d-eb2f-4664-b501-b05c992c6a39" name="Changes" comment="" />
+      <created>1732496930870</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1732496930870</updated>
+    </task>
+    <servers />
+  </component>
+</project>
